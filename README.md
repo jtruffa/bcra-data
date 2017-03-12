@@ -5,9 +5,9 @@ Datos de principales variables económicas del Banco Central de la República Ar
 
 <br />
 
-Las variables recolectadas a la fecha incluyen:
+<strong>Las variables recolectadas a la fecha incluyen:</strong>
 
-<strong><em>Nombre de columna</em> - descripción</strong>
+<h3><em>Nombre de columna</em> - descripción</h3>
 
 <em>Uva</em> - Unidad de Valor Adquisitivo (UVA) (en pesos —con dos decimales—, base 31.3.2016 = 14.05)
 
