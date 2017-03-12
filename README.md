@@ -64,7 +64,7 @@ Las variables recolectadas a la fecha incluyen:
 <h3>Objetivos</h3>
 Este repo tiene por único fin facilitar y mejorar el acceso a los datos económicos del Banco Central, en el convencimiento de que un amplio y fácil acceso a la información pública mejorará la calidad institucional de nuestro país y el nivel general de nuestra democracia republicana.
 
-<h3>TO DO</h3>
+<h3>TODO</h3>
 Sería importante que pudierámos ampliar la recolección para incluir más variables y mantener los datos bien actualizados para que quienes lo deseen puedan desarrollar apps o realizar investigaciones económicas. En particular, se observa que parte de la información que publica el BCRA se halla en hojas de cálculo de dificultoso procesamiento y sería importante liberar esos datos a formatos más amigables, como .csv. Cualquier colaboración es bienvenida.
 
 <h3>Responsabilidad</h3>
