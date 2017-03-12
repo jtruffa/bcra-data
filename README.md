@@ -71,3 +71,6 @@ Sería importante que pudierámos ampliar la recolección para incluir más vari
 
 <h3>Responsabilidad</h3>
 Los datos son provistos tal como fueron recolectados y no me hago responsable por errores que pudieran haberse cometido.
+
+<h3>Contacto</h3>
+Mail: grrmdt (arroba) gmail.com
