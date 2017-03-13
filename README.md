@@ -1,7 +1,7 @@
 # bcra-data
 Datos económicos del Banco Central de la República Argentina
 
-Datos de principales variables económicas del Banco Central de la República Argentina. Los mismos fueron recolectados desde el sitio web oficial de la entidad y van desde 2003-01-02 hasta 2017-03-02.
+Datos de principales variables económicas del Banco Central de la República Argentina. Los mismos fueron recolectados desde el sitio web oficial de la entidad (http://www.bcra.gob.ar/PublicacionesEstadisticas/Principales_variables.asp) y van desde 2003-01-02 hasta 2017-03-02.
 
 <br />
 
